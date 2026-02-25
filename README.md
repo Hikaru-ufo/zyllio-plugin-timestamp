@@ -28,13 +28,13 @@ https://hikaru-ufo.github.io/zyllio-plugin-timestamp/src/timestamp-unix.js
 ou via jsDelivr (recommandé) :
 
 ```
-https://cdn.jsdelivr.net/gh/Hikaru-ufo/zyllio-plugin-timestamp@main/timestamp-unix.js
+https://cdn.jsdelivr.net/gh/Hikaru-ufo/zyllio-plugin-timestamp@main/src/timestamp-unix.js
 ```
 
 ## Hébergement
 
-- **GitHub Pages** : `https://hikaru-ufo.github.io/zyllio-plugin-timestamp/timestamp-unix.js`
-- **jsDelivr CDN** : `https://cdn.jsdelivr.net/gh/Hikaru-ufo/zyllio-plugin-timestamp@main/timestamp-unix.js`
+- **GitHub Pages** : `https://hikaru-ufo.github.io/zyllio-plugin-timestamp/src/timestamp-unix.js`
+- **jsDelivr CDN** : `https://cdn.jsdelivr.net/gh/Hikaru-ufo/zyllio-plugin-timestamp@main/src/timestamp-unix.js`
 
 ## Cas d'usage
 
