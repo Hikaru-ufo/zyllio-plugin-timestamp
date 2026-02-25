@@ -22,7 +22,7 @@ Retourne le timestamp Unix correspondant à une date donnée.
 2. Ajoute un plugin avec l'URL suivante :
 
 ```
-https://hikaru-ufo.github.io/zyllio-plugin-timestamp/timestamp-unix.js
+https://hikaru-ufo.github.io/zyllio-plugin-timestamp/src/timestamp-unix.js
 ```
 
 ou via jsDelivr (recommandé) :
