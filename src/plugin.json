@@ -1,6 +1,6 @@
 {
   "name": "Plugin Timestamp Unix",
-  "description": "Plugin récupérer le timeestamp avec seceondes",
+  "description": "Plugin pour récupérer le timeestamp avec seceondes",
   "author": "Hikaru",
   "company": "Serenitix",
   "icon": "https://cdn.jsdelivr.net/gh/Hikaru-ufo/images/icones/icone-serenitix-s.png",
